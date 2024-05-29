@@ -1,0 +1,5 @@
+C:\Users\drodr\source\repos\Tarea2_Multihilo\bin\Release\net6.0-windows\publish\Tarea2_Multihilo.exe
+C:\Users\drodr\source\repos\Tarea2_Multihilo\bin\Release\net6.0-windows\publish\Tarea2_Multihilo.dll
+C:\Users\drodr\source\repos\Tarea2_Multihilo\bin\Release\net6.0-windows\publish\Tarea2_Multihilo.deps.json
+C:\Users\drodr\source\repos\Tarea2_Multihilo\bin\Release\net6.0-windows\publish\Tarea2_Multihilo.runtimeconfig.json
+C:\Users\drodr\source\repos\Tarea2_Multihilo\bin\Release\net6.0-windows\publish\Tarea2_Multihilo.pdb

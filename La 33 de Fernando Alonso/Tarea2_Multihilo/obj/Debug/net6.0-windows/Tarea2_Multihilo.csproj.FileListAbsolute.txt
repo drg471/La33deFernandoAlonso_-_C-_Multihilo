@@ -1,0 +1,36 @@
+C:\Users\drodr\source\repos\Tarea2_Multihilo\bin\Debug\net6.0-windows\Tarea2_Multihilo.exe
+C:\Users\drodr\source\repos\Tarea2_Multihilo\bin\Debug\net6.0-windows\Tarea2_Multihilo.deps.json
+C:\Users\drodr\source\repos\Tarea2_Multihilo\bin\Debug\net6.0-windows\Tarea2_Multihilo.runtimeconfig.json
+C:\Users\drodr\source\repos\Tarea2_Multihilo\bin\Debug\net6.0-windows\Tarea2_Multihilo.dll
+C:\Users\drodr\source\repos\Tarea2_Multihilo\bin\Debug\net6.0-windows\Tarea2_Multihilo.pdb
+C:\Users\drodr\source\repos\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.Form1.resources
+C:\Users\drodr\source\repos\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.Properties.Resources.resources
+C:\Users\drodr\source\repos\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.csproj.GenerateResource.cache
+C:\Users\drodr\source\repos\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drodr\source\repos\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.AssemblyInfoInputs.cache
+C:\Users\drodr\source\repos\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.AssemblyInfo.cs
+C:\Users\drodr\source\repos\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.csproj.CoreCompileInputs.cache
+C:\Users\drodr\source\repos\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.dll
+C:\Users\drodr\source\repos\Tarea2_Multihilo\obj\Debug\net6.0-windows\refint\Tarea2_Multihilo.dll
+C:\Users\drodr\source\repos\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.pdb
+C:\Users\drodr\source\repos\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.genruntimeconfig.cache
+C:\Users\drodr\source\repos\Tarea2_Multihilo\obj\Debug\net6.0-windows\ref\Tarea2_Multihilo.dll
+C:\Users\drodr\source\repos\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.MenuPrincipal.resources
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea2_DavidRodriguezGarcia\La 33 de Fernando Alonso\Tarea2_Multihilo\bin\Debug\net6.0-windows\Tarea2_Multihilo.exe
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea2_DavidRodriguezGarcia\La 33 de Fernando Alonso\Tarea2_Multihilo\bin\Debug\net6.0-windows\Tarea2_Multihilo.deps.json
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea2_DavidRodriguezGarcia\La 33 de Fernando Alonso\Tarea2_Multihilo\bin\Debug\net6.0-windows\Tarea2_Multihilo.runtimeconfig.json
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea2_DavidRodriguezGarcia\La 33 de Fernando Alonso\Tarea2_Multihilo\bin\Debug\net6.0-windows\Tarea2_Multihilo.dll
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea2_DavidRodriguezGarcia\La 33 de Fernando Alonso\Tarea2_Multihilo\bin\Debug\net6.0-windows\Tarea2_Multihilo.pdb
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea2_DavidRodriguezGarcia\La 33 de Fernando Alonso\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.Form1.resources
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea2_DavidRodriguezGarcia\La 33 de Fernando Alonso\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.MenuPrincipal.resources
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea2_DavidRodriguezGarcia\La 33 de Fernando Alonso\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.Properties.Resources.resources
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea2_DavidRodriguezGarcia\La 33 de Fernando Alonso\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.csproj.GenerateResource.cache
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea2_DavidRodriguezGarcia\La 33 de Fernando Alonso\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea2_DavidRodriguezGarcia\La 33 de Fernando Alonso\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.AssemblyInfoInputs.cache
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea2_DavidRodriguezGarcia\La 33 de Fernando Alonso\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.AssemblyInfo.cs
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea2_DavidRodriguezGarcia\La 33 de Fernando Alonso\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.csproj.CoreCompileInputs.cache
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea2_DavidRodriguezGarcia\La 33 de Fernando Alonso\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.dll
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea2_DavidRodriguezGarcia\La 33 de Fernando Alonso\Tarea2_Multihilo\obj\Debug\net6.0-windows\refint\Tarea2_Multihilo.dll
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea2_DavidRodriguezGarcia\La 33 de Fernando Alonso\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.pdb
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea2_DavidRodriguezGarcia\La 33 de Fernando Alonso\Tarea2_Multihilo\obj\Debug\net6.0-windows\Tarea2_Multihilo.genruntimeconfig.cache
+C:\Users\drodr\Desktop\Nueva carpeta\Subir GITHUB\Tarea2_DavidRodriguezGarcia\La 33 de Fernando Alonso\Tarea2_Multihilo\obj\Debug\net6.0-windows\ref\Tarea2_Multihilo.dll
