@@ -2,7 +2,7 @@
 
 Esta aplicación es un emocionante juego de carreras de Fórmula 1 desarrollado en C# utilizando Visual Studio 2022. Utiliza una arquitectura basada en multihilo para proporcionar una experiencia de juego dinámica y realista. Pisa el acelerador y ayuda a Fernando Alonso a conseguir su victoria número 33!
 
-###Imágenes
+### Imágenes
 
 <img src="https://github.com/drg471/La33deFernandoAlonso_-_CSharp_Multihilo/assets/113433396/fd22009f-a573-45ad-b2cc-1679db3040ce" width="600">
 
